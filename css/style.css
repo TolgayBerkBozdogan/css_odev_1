@@ -1,0 +1,31 @@
+h1 {
+    color: #95BDFF;padding-left: 550px;
+
+}
+
+h2{
+    color:purple;padding-left: 450px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+a {
+    padding-left: 10px;
+    color: #00235B;
+}
+p {
+    color: black;
+}
+ul{
+    list-style-position: inside;padding-left: 500px;border-image-width: 200/300;
+  }
+  img{
+    width:100px;height:auto
+  }
+  ol{
+    list-style-position: inside;padding-left: 550px;border-image-width: 200/300;
+  }
+  img{
+    width:200px;height:auto
+  }
